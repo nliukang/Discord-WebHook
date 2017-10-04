@@ -1,2 +1,0 @@
-# Discord-WebHook
-Discord WebHook
